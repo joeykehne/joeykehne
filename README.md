@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer from Germany with a
 
 - **Frontend:** Angular, React, HTML, CSS, JavaScript, TypeScript
 - **Backend:** NestJS, Node.js, Express.js, Plesk 
-- **Database:** MongoDB, Redis
+- **Database:** MongoDB, Redis, MySQL
 - **Others:** Webflow, Python, Git, Docker, RESTful APIs, GraphQL
 
 ## 🌍 Languages
